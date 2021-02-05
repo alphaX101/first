@@ -2,6 +2,12 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h2>这玩意挺方便的嘛！</h2>
+    <img
+      src="../assets/vo-vse-tyazhkie-breaking-bad-6698.jpg"
+      alt=""
+      srcset=""
+    />
     <!-- <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
@@ -56,5 +62,8 @@ li {
 }
 a {
   color: #42b983;
+}
+img {
+  width: 600px;
 }
 </style>
