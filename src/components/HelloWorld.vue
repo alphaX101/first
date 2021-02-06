@@ -2,7 +2,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>这玩意挺方便的嘛！</h2>
+    <h2>开启新的旅程</h2>
     <img
       src="../assets/vo-vse-tyazhkie-breaking-bad-6698.jpg"
       alt=""
